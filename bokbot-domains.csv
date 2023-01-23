@@ -1,4 +1,4 @@
-﻿Date,Group,Event UUID,Attack Ids,Attribute Count,Related Events Count,Tags,Indicators,Domain
+﻿Date,Group,UUID,Ids,Attribute,Count,Tags,Indicators,Domain
 Apr 9 2019,Indicator,33f865b1-89a7-4d3c-b5a8-27249015ce3d,,1,1,source:nodistribute | malware:icedid | malware:bokbot | event:observation,domain, forsynanchyv.com
 Apr 9 2019,Indicator,194d2bb9-7eec-472f-af9a-b26177520098,,1,1,source:nodistribute | malware:icedid | malware:bokbot | event:observation,domain, ucasus.com
 Apr 9 2019,Indicator,6bcec5ca-9985-4959-9037-05712a7a8169,,1,1,source:nodistribute | malware:icedid | malware:bokbot | event:observation,domain, antative.com
