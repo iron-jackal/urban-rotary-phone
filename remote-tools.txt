@@ -1,0 +1,14 @@
+anydesk
+splashtop
+atera
+logmein
+netsupport
+rutserv
+rfusclient
+screenconnect
+teamviewer
+pulseway
+remotepc
+pcanywhere
+kaseya
+gotomypc
